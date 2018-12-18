@@ -1,5 +1,5 @@
-PhoneGap BluetoothPlugin
-========================
+PhoneGap BluetoothPlugin By Daniel Diaz "JEKO"
+==============================================
 Bluetooth plugin for PhoneGap (Android). Tested on versions 2.6.0 and 3.0.0.
 
 **NOTE** The plugin requires Android API version 15 (Ice Cream Sandwich) to function properly.
